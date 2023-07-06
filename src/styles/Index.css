@@ -1,0 +1,29 @@
+body {
+    background-color: var(--main-bg-dark);
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.content > a {
+    margin-top: 10vh;
+}
+
+
+.content > a {
+    text-align: center;
+    color: var(--text-color);
+    font-size: 3vw;
+    background-color: var(--content-bg-1-dark-80);
+    border-radius: 20px;
+    width: 50vw;
+    height: 15vh;
+    text-decoration: none;
+}
+
+.content > a > p {
+    padding-top: 4vh;
+} 
