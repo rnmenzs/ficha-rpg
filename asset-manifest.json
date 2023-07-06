@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ficha-rpg/static/css/main.4dae7a0a.css",
+    "main.js": "/ficha-rpg/static/js/main.16cb1114.js",
+    "index.html": "/ficha-rpg/index.html",
+    "main.4dae7a0a.css.map": "/ficha-rpg/static/css/main.4dae7a0a.css.map",
+    "main.16cb1114.js.map": "/ficha-rpg/static/js/main.16cb1114.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dae7a0a.css",
+    "static/js/main.16cb1114.js"
+  ]
+}
